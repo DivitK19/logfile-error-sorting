@@ -1,0 +1,3205 @@
+============================================================
+[2025-11-22 12:00:00] New QR Code Received
+QR Data: WAIA1103,1000003633,8C:1F:64:27:20:9E:B1,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003633, MAC: 8C:1F:64:27:20:9E:B1, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:00:38] New QR Code Received
+QR Data: WAIA1103,1000004037,8C:1F:64:27:20:18:79,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000004037, MAC: 8C:1F:64:27:20:18:79, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:01:16] New QR Code Received
+QR Data: WAIA1103,1000008870,8C:1F:64:27:20:EE:73,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000008870, MAC: 8C:1F:64:27:20:EE:73, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:01:57] New QR Code Received
+QR Data: WAIA1103,1000008235,8C:1F:64:27:20:16:B1,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015058, MAC: 8C:1F:64:27:20:16:B1, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000008235, Device: 1000015058
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:02:21] New QR Code Received
+QR Data: WAIA1103,1000014332,8C:1F:64:27:20:E4:05,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014332, MAC: 8C:1F:64:27:20:E4:05, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:03:03] New QR Code Received
+QR Data: WAIA1103,1000007511,8C:1F:64:27:20:04:70,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000007511, MAC: 8C:1F:64:27:20:04:70, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:03:42] New QR Code Received
+QR Data: WAIA1103,1000002246,8C:1F:64:27:20:4A:ED,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002246, MAC: 8C:1F:64:27:20:4A:ED, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:04:17] New QR Code Received
+QR Data: WAIA1103,1000018336,8C:1F:64:27:20:A6:34,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000016648, MAC: 8C:1F:64:27:20:A6:34, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000018336, Device: 1000016648
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:04:53] New QR Code Received
+QR Data: WAIA1103,1000022413,8C:1F:64:27:20:56:9F,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000016176, MAC: 8C:1F:64:27:20:56:9F, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000022413, Device: 1000016176
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:05:18] New QR Code Received
+QR Data: WAIA1103,1000024985,8C:1F:64:27:20:E0:1D,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000024985, MAC: 8C:1F:64:27:20:E0:1D, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:05:38] New QR Code Received
+QR Data: WAIA1103,1000021793,8C:1F:64:27:20:9D:03,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021793, MAC: 8C:1F:64:27:20:9D:03, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:06:04] New QR Code Received
+QR Data: WAIA1103,1000007315,8C:1F:64:27:20:42:03,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000007315, MAC: 8C:1F:64:27:20:07:2A, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:42:03, Device: 8C:1F:64:27:20:07:2A
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:06:38] New QR Code Received
+QR Data: WAIA1103,1000010071,8C:1F:64:27:20:1D:09,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000010071, MAC: 8C:1F:64:27:20:1D:09, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:07:17] New QR Code Received
+QR Data: WAIA1103,1000021343,8C:1F:64:27:20:D4:32,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021343, MAC: 8C:1F:64:27:20:ED:E4, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:D4:32, Device: 8C:1F:64:27:20:ED:E4
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:07:47] New QR Code Received
+QR Data: WAIA1103,1000018905,8C:1F:64:27:20:5B:FB,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018905, MAC: 8C:1F:64:27:20:5B:FB, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:08:30] New QR Code Received
+QR Data: WAIA1103,1000006638,8C:1F:64:27:20:1C:62,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000008652, MAC: 8C:1F:64:27:20:1C:62, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000006638, Device: 1000008652
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:08:57] New QR Code Received
+QR Data: WAIA1103,1000016558,8C:1F:64:27:20:28:77,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000016558, MAC: 8C:1F:64:27:20:28:77, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:09:21] New QR Code Received
+QR Data: WAIA1103,1000009460,8C:1F:64:27:20:2B:4B,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018800, MAC: 8C:1F:64:27:20:2B:4B, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000009460, Device: 1000018800
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:09:54] New QR Code Received
+QR Data: WAIA1103,1000002243,8C:1F:64:27:20:4E:4E,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002243, MAC: 8C:1F:64:27:20:4E:4E, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:10:25] New QR Code Received
+QR Data: WAIA1103,1000014457,8C:1F:64:27:20:07:3A,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014457, MAC: 8C:1F:64:27:20:07:3A, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:10:55] New QR Code Received
+QR Data: WAIA1103,1000003005,8C:1F:64:27:20:43:1C,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003005, MAC: 8C:1F:64:27:20:43:1C, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:11:31] New QR Code Received
+QR Data: WAIA1103,1000015171,8C:1F:64:27:20:F6:1A,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000007193, MAC: 8C:1F:64:27:20:F6:1A, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000015171, Device: 1000007193
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:12:03] New QR Code Received
+QR Data: WAIA1103,1000021445,8C:1F:64:27:20:23:09,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021445, MAC: 8C:1F:64:27:20:23:09, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:12:48] New QR Code Received
+QR Data: WAIA1103,1000013598,8C:1F:64:27:20:E2:05,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000013598, MAC: 8C:1F:64:27:20:E2:05, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:13:33] New QR Code Received
+QR Data: WAIA1103,1000006885,8C:1F:64:27:20:D1:E9,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000006885, MAC: 8C:1F:64:27:20:D1:E9, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:14:08] New QR Code Received
+QR Data: WAIA1103,1000019618,8C:1F:64:27:20:29:20,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019618, MAC: 8C:1F:64:27:20:54:29, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:29:20, Device: 8C:1F:64:27:20:54:29
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:14:27] New QR Code Received
+QR Data: WAIA1103,1000024384,8C:1F:64:27:20:B6:BF,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000024384, MAC: 8C:1F:64:27:20:B6:BF, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:14:49] New QR Code Received
+QR Data: WAIA1103,1000013083,8C:1F:64:27:20:A1:A5,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000013083, MAC: 8C:1F:64:27:20:A1:A5, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:15:08] New QR Code Received
+QR Data: WAIA1103,1000019204,8C:1F:64:27:20:E4:C2,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019204, MAC: 8C:1F:64:27:20:E9:D8, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:E4:C2, Device: 8C:1F:64:27:20:E9:D8
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:15:53] New QR Code Received
+QR Data: WAIA1103,1000020559,8C:1F:64:27:20:88:02,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000020559, MAC: 8C:1F:64:27:20:88:02, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:16:26] New QR Code Received
+QR Data: WAIA1103,1000022951,8C:1F:64:27:20:72:CF,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014820, MAC: 8C:1F:64:27:20:72:CF, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000022951, Device: 1000014820
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:16:45] New QR Code Received
+QR Data: WAIA1103,1000015478,8C:1F:64:27:20:1F:E9,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015478, MAC: 8C:1F:64:27:20:1F:E9, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:17:05] New QR Code Received
+QR Data: WAIA1103,1000011368,8C:1F:64:27:20:76:A7,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000011368, MAC: 8C:1F:64:27:20:76:A7, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:17:46] New QR Code Received
+QR Data: WAIA1103,1000000985,8C:1F:64:27:20:AC:DD,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000000985, MAC: 8C:1F:64:27:20:AC:DD, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:18:25] New QR Code Received
+QR Data: WAIA1103,1000019153,8C:1F:64:27:20:45:58,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019153, MAC: 8C:1F:64:27:20:45:58, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:18:53] New QR Code Received
+QR Data: WAIA1103,1000024911,8C:1F:64:27:20:E1:13,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:19:19] New QR Code Received
+QR Data: WAIA1103,1000019408,8C:1F:64:27:20:7C:D8,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019408, MAC: 8C:1F:64:27:20:7C:D8, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:19:54] New QR Code Received
+QR Data: WAIA1103,1000021149,8C:1F:64:27:20:9F:9C,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:20:17] New QR Code Received
+QR Data: WAIA1103,1000020493,8C:1F:64:27:20:BC:F6,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000020493, MAC: 8C:1F:64:27:20:BC:F6, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:20:57] New QR Code Received
+QR Data: WAIA1103,1000018405,8C:1F:64:27:20:11:00,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000006315, MAC: 8C:1F:64:27:20:11:00, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000018405, Device: 1000006315
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:21:25] New QR Code Received
+QR Data: WAIA1103,1000019904,8C:1F:64:27:20:E1:D3,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019904, MAC: 8C:1F:64:27:20:7A:9F, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:E1:D3, Device: 8C:1F:64:27:20:7A:9F
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:21:43] New QR Code Received
+QR Data: WAIA1103,1000014518,8C:1F:64:27:20:94:C4,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014518, MAC: 8C:1F:64:27:20:81:3C, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:94:C4, Device: 8C:1F:64:27:20:81:3C
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:22:04] New QR Code Received
+QR Data: WAIA1103,1000014367,8C:1F:64:27:20:B7:A8,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014367, MAC: 8C:1F:64:27:20:B7:A8, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:22:37] New QR Code Received
+QR Data: WAIA1103,1000019180,8C:1F:64:27:20:E5:48,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021637, MAC: 8C:1F:64:27:20:E5:48, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000019180, Device: 1000021637
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:23:01] New QR Code Received
+QR Data: WAIA1103,1000013243,8C:1F:64:27:20:27:32,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:23:33] New QR Code Received
+QR Data: WAIA1103,1000023044,8C:1F:64:27:20:F3:53,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000023044, MAC: 8C:1F:64:27:20:F3:53, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:23:55] New QR Code Received
+QR Data: WAIA1103,1000012355,8C:1F:64:27:20:F6:08,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012355, MAC: 8C:1F:64:27:20:F6:08, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:24:33] New QR Code Received
+QR Data: WAIA1103,1000022385,8C:1F:64:27:20:94:07,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000022385, MAC: 8C:1F:64:27:20:94:07, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:25:09] New QR Code Received
+QR Data: WAIA1103,1000019940,8C:1F:64:27:20:E8:63,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019940, MAC: 8C:1F:64:27:20:E8:63, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:25:32] New QR Code Received
+QR Data: WAIA1103,1000015543,8C:1F:64:27:20:59:A4,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015543, MAC: 8C:1F:64:27:20:59:A4, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:25:53] New QR Code Received
+QR Data: WAIA1103,1000011601,8C:1F:64:27:20:CB:5D,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:26:20] New QR Code Received
+QR Data: WAIA1103,1000018978,8C:1F:64:27:20:05:9C,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018978, MAC: 8C:1F:64:27:20:05:9C, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:26:58] New QR Code Received
+QR Data: WAIA1103,1000003374,8C:1F:64:27:20:FB:62,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003374, MAC: 8C:1F:64:27:20:FB:62, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:27:30] New QR Code Received
+QR Data: WAIA1103,1000024838,8C:1F:64:27:20:83:7A,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000024838, MAC: 8C:1F:64:27:20:83:7A, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:28:03] New QR Code Received
+QR Data: WAIA1103,1000017774,8C:1F:64:27:20:36:39,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000017774, MAC: 8C:1F:64:27:20:36:39, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:28:22] New QR Code Received
+QR Data: WAIA1103,1000014183,8C:1F:64:27:20:30:38,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014183, MAC: 8C:1F:64:27:20:30:38, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:28:51] New QR Code Received
+QR Data: WAIA1103,1000021719,8C:1F:64:27:20:63:93,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021719, MAC: 8C:1F:64:27:20:63:93, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:29:28] New QR Code Received
+QR Data: WAIA1103,1000004592,8C:1F:64:27:20:26:A9,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000004592, MAC: 8C:1F:64:27:20:26:A9, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:30:07] New QR Code Received
+QR Data: WAIA1103,1000008257,8C:1F:64:27:20:9B:78,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000008257, MAC: 8C:1F:64:27:20:9B:78, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:30:25] New QR Code Received
+QR Data: WAIA1103,1000021803,8C:1F:64:27:20:5B:F9,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021803, MAC: 8C:1F:64:27:20:5B:F9, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:30:52] New QR Code Received
+QR Data: WAIA1103,1000000404,8C:1F:64:27:20:B4:08,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000000404, MAC: 8C:1F:64:27:20:B4:08, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:31:14] New QR Code Received
+QR Data: WAIA1103,1000024728,8C:1F:64:27:20:C8:2A,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000024728, MAC: 8C:1F:64:27:20:C8:2A, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:31:35] New QR Code Received
+QR Data: WAIA1103,1000020501,8C:1F:64:27:20:76:07,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000020501, MAC: 8C:1F:64:27:20:76:07, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:32:20] New QR Code Received
+QR Data: WAIA1103,1000012570,8C:1F:64:27:20:2A:50,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012570, MAC: 8C:1F:64:27:20:2A:50, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:32:46] New QR Code Received
+QR Data: WAIA1103,1000015235,8C:1F:64:27:20:E7:E6,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:33:07] New QR Code Received
+QR Data: WAIA1103,1000003592,8C:1F:64:27:20:E6:D0,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003592, MAC: 8C:1F:64:27:20:E6:D0, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:33:29] New QR Code Received
+QR Data: WAIA1103,1000000448,8C:1F:64:27:20:55:E8,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000000448, MAC: 8C:1F:64:27:20:55:E8, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:33:50] New QR Code Received
+QR Data: WAIA1103,1000010084,8C:1F:64:27:20:F9:95,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014185, MAC: 8C:1F:64:27:20:F9:95, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000010084, Device: 1000014185
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:34:17] New QR Code Received
+QR Data: WAIA1103,1000001167,8C:1F:64:27:20:8E:8A,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000001167, MAC: 8C:1F:64:27:20:BE:27, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:8E:8A, Device: 8C:1F:64:27:20:BE:27
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:34:42] New QR Code Received
+QR Data: WAIA1103,1000007020,8C:1F:64:27:20:0E:F2,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000007020, MAC: 8C:1F:64:27:20:0E:F2, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:35:24] New QR Code Received
+QR Data: WAIA1103,1000009457,8C:1F:64:27:20:90:90,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000009457, MAC: 8C:1F:64:27:20:90:90, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:36:00] New QR Code Received
+QR Data: WAIA1103,1000023484,8C:1F:64:27:20:C4:7A,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000023484, MAC: 8C:1F:64:27:20:C4:7A, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:36:31] New QR Code Received
+QR Data: WAIA1103,1000021944,8C:1F:64:27:20:C9:D0,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021944, MAC: 8C:1F:64:27:20:C9:D0, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:37:06] New QR Code Received
+QR Data: WAIA1103,1000022292,8C:1F:64:27:20:29:2B,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000022292, MAC: 8C:1F:64:27:20:29:2B, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:37:29] New QR Code Received
+QR Data: WAIA1103,1000017164,8C:1F:64:27:20:26:E9,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000000366, MAC: 8C:1F:64:27:20:26:E9, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000017164, Device: 1000000366
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:37:48] New QR Code Received
+QR Data: WAIA1103,1000010735,8C:1F:64:27:20:E4:E5,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000010735, MAC: 8C:1F:64:27:20:E4:E5, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:38:26] New QR Code Received
+QR Data: WAIA1103,1000022331,8C:1F:64:27:20:32:EC,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:38:46] New QR Code Received
+QR Data: WAIA1103,1000022428,8C:1F:64:27:20:42:2A,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000022428, MAC: 8C:1F:64:27:20:42:2A, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:39:25] New QR Code Received
+QR Data: WAIA1103,1000005388,8C:1F:64:27:20:38:9B,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000005388, MAC: 8C:1F:64:27:20:38:9B, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:39:55] New QR Code Received
+QR Data: WAIA1103,1000017520,8C:1F:64:27:20:C3:6B,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000011437, MAC: 8C:1F:64:27:20:C3:6B, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000017520, Device: 1000011437
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:40:25] New QR Code Received
+QR Data: WAIA1103,1000000138,8C:1F:64:27:20:5F:F1,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:40:50] New QR Code Received
+QR Data: WAIA1103,1000003385,8C:1F:64:27:20:D3:4D,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003385, MAC: 8C:1F:64:27:20:D3:4D, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:41:21] New QR Code Received
+QR Data: WAIA1103,1000012776,8C:1F:64:27:20:59:F6,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012776, MAC: 8C:1F:64:27:20:59:F6, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:41:43] New QR Code Received
+QR Data: WAIA1103,1000012218,8C:1F:64:27:20:45:AC,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002764, MAC: 8C:1F:64:27:20:45:AC, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000012218, Device: 1000002764
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:42:07] New QR Code Received
+QR Data: WAIA1103,1000015582,8C:1F:64:27:20:6E:B5,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015582, MAC: 8C:1F:64:27:20:6E:B5, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:42:31] New QR Code Received
+QR Data: WAIA1103,1000017406,8C:1F:64:27:20:D0:7A,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000017406, MAC: 8C:1F:64:27:20:D0:7A, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:42:54] New QR Code Received
+QR Data: WAIA1103,1000013078,8C:1F:64:27:20:88:00,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:43:35] New QR Code Received
+QR Data: WAIA1103,1000018623,8C:1F:64:27:20:A8:37,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000022788, MAC: 8C:1F:64:27:20:A8:37, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000018623, Device: 1000022788
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:44:02] New QR Code Received
+QR Data: WAIA1103,1000002345,8C:1F:64:27:20:E8:4F,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002345, MAC: 8C:1F:64:27:20:16:92, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:E8:4F, Device: 8C:1F:64:27:20:16:92
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:44:20] New QR Code Received
+QR Data: WAIA1103,1000012497,8C:1F:64:27:20:D7:32,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012497, MAC: 8C:1F:64:27:20:D7:32, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:44:52] New QR Code Received
+QR Data: WAIA1103,1000002941,8C:1F:64:27:20:1D:0E,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002941, MAC: 8C:1F:64:27:20:1D:0E, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:45:17] New QR Code Received
+QR Data: WAIA1103,1000010799,8C:1F:64:27:20:1B:95,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000010799, MAC: 8C:1F:64:27:20:1B:95, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:45:56] New QR Code Received
+QR Data: WAIA1103,1000019958,8C:1F:64:27:20:C9:55,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000011038, MAC: 8C:1F:64:27:20:C9:55, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000019958, Device: 1000011038
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:46:36] New QR Code Received
+QR Data: WAIA1103,1000004968,8C:1F:64:27:20:03:CA,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000004968, MAC: 8C:1F:64:27:20:03:CA, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:46:54] New QR Code Received
+QR Data: WAIA1103,1000015515,8C:1F:64:27:20:61:4F,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015515, MAC: 8C:1F:64:27:20:61:4F, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:47:26] New QR Code Received
+QR Data: WAIA1103,1000001847,8C:1F:64:27:20:94:86,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000001847, MAC: 8C:1F:64:27:20:94:86, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:47:44] New QR Code Received
+QR Data: WAIA1103,1000021640,8C:1F:64:27:20:BD:05,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021640, MAC: 8C:1F:64:27:20:CA:6F, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:BD:05, Device: 8C:1F:64:27:20:CA:6F
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:48:14] New QR Code Received
+QR Data: WAIA1103,1000001280,8C:1F:64:27:20:76:DB,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000001280, MAC: 8C:1F:64:27:20:76:DB, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:48:50] New QR Code Received
+QR Data: WAIA1103,1000014298,8C:1F:64:27:20:13:7D,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014298, MAC: 8C:1F:64:27:20:13:7D, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:49:28] New QR Code Received
+QR Data: WAIA1103,1000011655,8C:1F:64:27:20:2D:2C,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000011655, MAC: 8C:1F:64:27:20:2D:2C, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:50:09] New QR Code Received
+QR Data: WAIA1103,1000017963,8C:1F:64:27:20:D0:FB,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000017963, MAC: 8C:1F:64:27:20:D0:FB, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:50:48] New QR Code Received
+QR Data: WAIA1103,1000004948,8C:1F:64:27:20:3D:09,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000004948, MAC: 8C:1F:64:27:20:3D:09, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:51:24] New QR Code Received
+QR Data: WAIA1103,1000012569,8C:1F:64:27:20:F1:44,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012569, MAC: 8C:1F:64:27:20:F1:44, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:51:50] New QR Code Received
+QR Data: WAIA1103,1000015877,8C:1F:64:27:20:D6:EF,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015877, MAC: 8C:1F:64:27:20:D6:EF, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:52:15] New QR Code Received
+QR Data: WAIA1103,1000014006,8C:1F:64:27:20:A0:25,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014006, MAC: 8C:1F:64:27:20:A0:25, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:52:35] New QR Code Received
+QR Data: WAIA1103,1000007755,8C:1F:64:27:20:D8:F9,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000007755, MAC: 8C:1F:64:27:20:D8:F9, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:52:57] New QR Code Received
+QR Data: WAIA1103,1000018899,8C:1F:64:27:20:38:3F,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018899, MAC: 8C:1F:64:27:20:38:3F, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:53:22] New QR Code Received
+QR Data: WAIA1103,1000018611,8C:1F:64:27:20:65:12,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018611, MAC: 8C:1F:64:27:20:65:12, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:53:43] New QR Code Received
+QR Data: WAIA1103,1000018881,8C:1F:64:27:20:9C:ED,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018881, MAC: 8C:1F:64:27:20:9C:ED, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:54:15] New QR Code Received
+QR Data: WAIA1103,1000012503,8C:1F:64:27:20:A3:53,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012503, MAC: 8C:1F:64:27:20:A3:53, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:54:46] New QR Code Received
+QR Data: WAIA1103,1000023633,8C:1F:64:27:20:08:B2,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000023633, MAC: 8C:1F:64:27:20:08:B2, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:55:08] New QR Code Received
+QR Data: WAIA1103,1000024759,8C:1F:64:27:20:F1:55,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000024759, MAC: 8C:1F:64:27:20:F1:55, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:55:48] New QR Code Received
+QR Data: WAIA1103,1000018123,8C:1F:64:27:20:A7:A2,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018123, MAC: 8C:1F:64:27:20:11:06, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:A7:A2, Device: 8C:1F:64:27:20:11:06
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 12:56:18] New QR Code Received
+QR Data: WAIA1103,1000013702,8C:1F:64:27:20:42:3F,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:57:01] New QR Code Received
+QR Data: WAIA1103,1000022938,8C:1F:64:27:20:F3:B8,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:57:25] New QR Code Received
+QR Data: WAIA1103,1000003662,8C:1F:64:27:20:45:D7,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003662, MAC: 8C:1F:64:27:20:45:D7, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:58:02] New QR Code Received
+QR Data: WAIA1103,1000021115,8C:1F:64:27:20:83:4A,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021115, MAC: 8C:1F:64:27:20:83:4A, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:58:38] New QR Code Received
+QR Data: WAIA1103,1000009230,8C:1F:64:27:20:79:0B,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000009230, MAC: 8C:1F:64:27:20:79:0B, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 12:59:09] New QR Code Received
+QR Data: WAIA1103,1000000224,8C:1F:64:27:20:E6:CE,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 12:59:36] New QR Code Received
+QR Data: WAIA1103,1000006764,8C:1F:64:27:20:23:43,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000006764, MAC: 8C:1F:64:27:20:23:43, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:00:14] New QR Code Received
+QR Data: WAIA1103,1000024980,8C:1F:64:27:20:EF:65,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000024980, MAC: 8C:1F:64:27:20:EF:65, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:00:56] New QR Code Received
+QR Data: WAIA1103,1000015080,8C:1F:64:27:20:8E:EC,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015080, MAC: 8C:1F:64:27:20:8E:EC, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:01:41] New QR Code Received
+QR Data: WAIA1103,1000014257,8C:1F:64:27:20:7B:CF,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014257, MAC: 8C:1F:64:27:20:5A:C8, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:7B:CF, Device: 8C:1F:64:27:20:5A:C8
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:02:26] New QR Code Received
+QR Data: WAIA1103,1000000636,8C:1F:64:27:20:8D:65,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000000636, MAC: 8C:1F:64:27:20:8D:65, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:03:10] New QR Code Received
+QR Data: WAIA1103,1000014845,8C:1F:64:27:20:CE:3E,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014845, MAC: 8C:1F:64:27:20:CE:3E, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:03:34] New QR Code Received
+QR Data: WAIA1103,1000003990,8C:1F:64:27:20:0A:AF,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003990, MAC: 8C:1F:64:27:20:0A:AF, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:04:00] New QR Code Received
+QR Data: WAIA1103,1000019366,8C:1F:64:27:20:D4:08,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019366, MAC: 8C:1F:64:27:20:D4:08, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:04:25] New QR Code Received
+QR Data: WAIA1103,1000006918,8C:1F:64:27:20:3D:2D,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000006918, MAC: 8C:1F:64:27:20:3D:2D, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:05:07] New QR Code Received
+QR Data: WAIA1103,1000023489,8C:1F:64:27:20:29:33,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000023489, MAC: 8C:1F:64:27:20:3C:A6, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:29:33, Device: 8C:1F:64:27:20:3C:A6
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:05:46] New QR Code Received
+QR Data: WAIA1103,1000007382,8C:1F:64:27:20:A3:FB,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000007382, MAC: 8C:1F:64:27:20:A3:FB, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:06:09] New QR Code Received
+QR Data: WAIA1103,1000003288,8C:1F:64:27:20:F1:2F,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 13:06:48] New QR Code Received
+QR Data: WAIA1103,1000018582,8C:1F:64:27:20:18:44,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018582, MAC: 8C:1F:64:27:20:18:44, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:07:14] New QR Code Received
+QR Data: WAIA1103,1000017075,8C:1F:64:27:20:D6:7C,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000017075, MAC: 8C:1F:64:27:20:D6:7C, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:07:46] New QR Code Received
+QR Data: WAIA1103,1000024157,8C:1F:64:27:20:7E:AA,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000024157, MAC: 8C:1F:64:27:20:7E:AA, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:08:16] New QR Code Received
+QR Data: WAIA1103,1000020857,8C:1F:64:27:20:9E:3E,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000020857, MAC: 8C:1F:64:27:20:9E:3E, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:08:46] New QR Code Received
+QR Data: WAIA1103,1000019858,8C:1F:64:27:20:05:2D,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019858, MAC: 8C:1F:64:27:20:05:2D, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:09:31] New QR Code Received
+QR Data: WAIA1103,1000008912,8C:1F:64:27:20:4C:E5,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000005483, MAC: 8C:1F:64:27:20:4C:E5, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000008912, Device: 1000005483
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:09:53] New QR Code Received
+QR Data: WAIA1103,1000022764,8C:1F:64:27:20:80:0E,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000022764, MAC: 8C:1F:64:27:20:80:0E, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:10:33] New QR Code Received
+QR Data: WAIA1103,1000015853,8C:1F:64:27:20:63:6D,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015853, MAC: 8C:1F:64:27:20:63:6D, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:11:09] New QR Code Received
+QR Data: WAIA1103,1000023243,8C:1F:64:27:20:20:88,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000023243, MAC: 8C:1F:64:27:20:20:88, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:11:41] New QR Code Received
+QR Data: WAIA1103,1000006155,8C:1F:64:27:20:D0:14,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000006155, MAC: 8C:1F:64:27:20:D0:14, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:12:08] New QR Code Received
+QR Data: WAIA1103,1000019495,8C:1F:64:27:20:61:6E,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019495, MAC: 8C:1F:64:27:20:61:6E, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:12:49] New QR Code Received
+QR Data: WAIA1103,1000016670,8C:1F:64:27:20:5A:46,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000016670, MAC: 8C:1F:64:27:20:5A:46, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:13:07] New QR Code Received
+QR Data: WAIA1103,1000015751,8C:1F:64:27:20:A4:00,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015751, MAC: 8C:1F:64:27:20:A4:00, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:13:29] New QR Code Received
+QR Data: WAIA1103,1000017220,8C:1F:64:27:20:2C:98,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000017220, MAC: 8C:1F:64:27:20:F3:F9, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:2C:98, Device: 8C:1F:64:27:20:F3:F9
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:14:10] New QR Code Received
+QR Data: WAIA1103,1000023964,8C:1F:64:27:20:F8:A0,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000023964, MAC: 8C:1F:64:27:20:F8:A0, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:14:47] New QR Code Received
+QR Data: WAIA1103,1000001650,8C:1F:64:27:20:AA:2B,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000001650, MAC: 8C:1F:64:27:20:AA:2B, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:15:30] New QR Code Received
+QR Data: WAIA1103,1000015382,8C:1F:64:27:20:29:71,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012757, MAC: 8C:1F:64:27:20:29:71, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000015382, Device: 1000012757
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:15:52] New QR Code Received
+QR Data: WAIA1103,1000000907,8C:1F:64:27:20:5F:45,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000000907, MAC: 8C:1F:64:27:20:5F:45, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:16:25] New QR Code Received
+QR Data: WAIA1103,1000004725,8C:1F:64:27:20:E8:F6,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000004725, MAC: 8C:1F:64:27:20:77:92, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:E8:F6, Device: 8C:1F:64:27:20:77:92
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:16:55] New QR Code Received
+QR Data: WAIA1103,1000001036,8C:1F:64:27:20:4E:5F,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000001036, MAC: 8C:1F:64:27:20:4E:5F, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:17:15] New QR Code Received
+QR Data: WAIA1103,1000012695,8C:1F:64:27:20:13:8C,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012695, MAC: 8C:1F:64:27:20:C9:86, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:13:8C, Device: 8C:1F:64:27:20:C9:86
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:17:48] New QR Code Received
+QR Data: WAIA1103,1000004272,8C:1F:64:27:20:55:8B,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000004272, MAC: 8C:1F:64:27:20:55:8B, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:18:30] New QR Code Received
+QR Data: WAIA1103,1000016610,8C:1F:64:27:20:AC:7C,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000016610, MAC: 8C:1F:64:27:20:AC:7C, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:18:58] New QR Code Received
+QR Data: WAIA1103,1000014841,8C:1F:64:27:20:51:A4,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000014841, MAC: 8C:1F:64:27:20:51:A4, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:19:38] New QR Code Received
+QR Data: WAIA1103,1000004704,8C:1F:64:27:20:06:AE,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 13:19:59] New QR Code Received
+QR Data: WAIA1103,1000018192,8C:1F:64:27:20:E7:00,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018192, MAC: 8C:1F:64:27:20:6C:13, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:E7:00, Device: 8C:1F:64:27:20:6C:13
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:20:25] New QR Code Received
+QR Data: WAIA1103,1000005495,8C:1F:64:27:20:90:85,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000005495, MAC: 8C:1F:64:27:20:F0:77, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:90:85, Device: 8C:1F:64:27:20:F0:77
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:20:49] New QR Code Received
+QR Data: WAIA1103,1000019603,8C:1F:64:27:20:1A:50,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019603, MAC: 8C:1F:64:27:20:1A:50, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:21:32] New QR Code Received
+QR Data: WAIA1103,1000009762,8C:1F:64:27:20:46:63,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000009762, MAC: 8C:1F:64:27:20:46:63, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:22:11] New QR Code Received
+QR Data: WAIA1103,1000007170,8C:1F:64:27:20:C9:2D,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000007170, MAC: 8C:1F:64:27:20:C9:2D, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:22:48] New QR Code Received
+QR Data: WAIA1103,1000001272,8C:1F:64:27:20:EC:0F,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000001272, MAC: 8C:1F:64:27:20:EC:0F, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:23:18] New QR Code Received
+QR Data: WAIA1103,1000018348,8C:1F:64:27:20:42:44,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015150, MAC: 8C:1F:64:27:20:42:44, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000018348, Device: 1000015150
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:24:00] New QR Code Received
+QR Data: WAIA1103,1000003142,8C:1F:64:27:20:CD:AE,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003142, MAC: 8C:1F:64:27:20:CD:AE, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:24:44] New QR Code Received
+QR Data: WAIA1103,1000000573,8C:1F:64:27:20:11:F5,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000000573, MAC: 8C:1F:64:27:20:11:F5, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:25:10] New QR Code Received
+QR Data: WAIA1103,1000010983,8C:1F:64:27:20:D1:7A,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000010983, MAC: 8C:1F:64:27:20:D1:7A, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:25:53] New QR Code Received
+QR Data: WAIA1103,1000003956,8C:1F:64:27:20:86:91,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003956, MAC: 8C:1F:64:27:20:86:91, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:26:30] New QR Code Received
+QR Data: WAIA1103,1000019631,8C:1F:64:27:20:3D:FD,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000013532, MAC: 8C:1F:64:27:20:3D:FD, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000019631, Device: 1000013532
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:27:02] New QR Code Received
+QR Data: WAIA1103,1000002433,8C:1F:64:27:20:E3:D3,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002433, MAC: 8C:1F:64:27:20:E3:D3, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:27:34] New QR Code Received
+QR Data: WAIA1103,1000003036,8C:1F:64:27:20:40:25,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003036, MAC: 8C:1F:64:27:20:40:25, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:27:57] New QR Code Received
+QR Data: WAIA1103,1000001243,8C:1F:64:27:20:1B:60,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000001243, MAC: 8C:1F:64:27:20:1B:60, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:28:29] New QR Code Received
+QR Data: WAIA1103,1000019012,8C:1F:64:27:20:AD:1C,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019012, MAC: 8C:1F:64:27:20:AD:1C, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:29:02] New QR Code Received
+QR Data: WAIA1103,1000000977,8C:1F:64:27:20:49:2B,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000000977, MAC: 8C:1F:64:27:20:49:2B, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:29:37] New QR Code Received
+QR Data: WAIA1103,1000004384,8C:1F:64:27:20:5F:88,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000004384, MAC: 8C:1F:64:27:20:5F:88, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:30:13] New QR Code Received
+QR Data: WAIA1103,1000003322,8C:1F:64:27:20:82:96,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003322, MAC: 8C:1F:64:27:20:82:96, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:30:55] New QR Code Received
+QR Data: WAIA1103,1000012872,8C:1F:64:27:20:85:57,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012872, MAC: 8C:1F:64:27:20:85:57, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:31:17] New QR Code Received
+QR Data: WAIA1103,1000002996,8C:1F:64:27:20:77:32,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002996, MAC: 8C:1F:64:27:20:6A:C3, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:77:32, Device: 8C:1F:64:27:20:6A:C3
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:31:55] New QR Code Received
+QR Data: WAIA1103,1000021621,8C:1F:64:27:20:09:E1,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021621, MAC: 8C:1F:64:27:20:F6:62, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:09:E1, Device: 8C:1F:64:27:20:F6:62
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:32:33] New QR Code Received
+QR Data: WAIA1103,1000015074,8C:1F:64:27:20:A2:32,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015074, MAC: 8C:1F:64:27:20:A2:32, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:32:58] New QR Code Received
+QR Data: WAIA1103,1000019691,8C:1F:64:27:20:0D:09,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019691, MAC: 8C:1F:64:27:20:0D:09, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:33:31] New QR Code Received
+QR Data: WAIA1103,1000022470,8C:1F:64:27:20:40:58,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000022470, MAC: 8C:1F:64:27:20:40:58, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:34:03] New QR Code Received
+QR Data: WAIA1103,1000001200,8C:1F:64:27:20:10:9C,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000001200, MAC: 8C:1F:64:27:20:10:9C, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:34:46] New QR Code Received
+QR Data: WAIA1103,1000012742,8C:1F:64:27:20:38:A6,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000012742, MAC: 8C:1F:64:27:20:6B:71, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:38:A6, Device: 8C:1F:64:27:20:6B:71
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:35:05] New QR Code Received
+QR Data: WAIA1103,1000002240,8C:1F:64:27:20:8F:ED,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002240, MAC: 8C:1F:64:27:20:8F:ED, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:35:47] New QR Code Received
+QR Data: WAIA1103,1000006128,8C:1F:64:27:20:0E:BB,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000006128, MAC: 8C:1F:64:27:20:0E:BB, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:36:07] New QR Code Received
+QR Data: WAIA1103,1000008139,8C:1F:64:27:20:71:37,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000008139, MAC: 8C:1F:64:27:20:71:37, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:36:25] New QR Code Received
+QR Data: WAIA1103,1000004302,8C:1F:64:27:20:B8:C3,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000004302, MAC: 8C:1F:64:27:20:B8:C3, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:36:54] New QR Code Received
+QR Data: WAIA1103,1000016092,8C:1F:64:27:20:8A:EA,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000016092, MAC: 8C:1F:64:27:20:8A:EA, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:37:15] New QR Code Received
+QR Data: WAIA1103,1000013597,8C:1F:64:27:20:1E:15,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000013597, MAC: 8C:1F:64:27:20:1E:15, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:38:00] New QR Code Received
+QR Data: WAIA1103,1000011669,8C:1F:64:27:20:D9:AB,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000011669, MAC: 8C:1F:64:27:20:D9:AB, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:38:32] New QR Code Received
+QR Data: WAIA1103,1000005676,8C:1F:64:27:20:2B:E9,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000005676, MAC: 8C:1F:64:27:20:2B:E9, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:38:59] New QR Code Received
+QR Data: WAIA1103,1000019245,8C:1F:64:27:20:61:50,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019245, MAC: 8C:1F:64:27:20:61:50, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:39:43] New QR Code Received
+QR Data: WAIA1103,1000020182,8C:1F:64:27:20:8E:F7,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000020182, MAC: 8C:1F:64:27:20:8E:F7, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:40:20] New QR Code Received
+QR Data: WAIA1103,1000022037,8C:1F:64:27:20:D2:4F,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000022037, MAC: 8C:1F:64:27:20:99:08, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:D2:4F, Device: 8C:1F:64:27:20:99:08
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:40:57] New QR Code Received
+QR Data: WAIA1103,1000017483,8C:1F:64:27:20:16:36,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000017483, MAC: 8C:1F:64:27:20:16:36, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:41:16] New QR Code Received
+QR Data: WAIA1103,1000021017,8C:1F:64:27:20:E7:18,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021017, MAC: 8C:1F:64:27:20:E7:18, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:41:49] New QR Code Received
+QR Data: WAIA1103,1000011710,8C:1F:64:27:20:5B:05,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000011710, MAC: 8C:1F:64:27:20:5B:05, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:42:22] New QR Code Received
+QR Data: WAIA1103,1000011233,8C:1F:64:27:20:FA:0E,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000011233, MAC: 8C:1F:64:27:20:FA:0E, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:42:55] New QR Code Received
+QR Data: WAIA1103,1000015251,8C:1F:64:27:20:1E:61,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015251, MAC: 8C:1F:64:27:20:1E:61, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:43:36] New QR Code Received
+QR Data: WAIA1103,1000024960,8C:1F:64:27:20:EC:9D,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000024960, MAC: 8C:1F:64:27:20:EC:9D, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:43:58] New QR Code Received
+QR Data: WAIA1103,1000010547,8C:1F:64:27:20:37:DC,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000017579, MAC: 8C:1F:64:27:20:37:DC, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000010547, Device: 1000017579
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:44:41] New QR Code Received
+QR Data: WAIA1103,1000023253,8C:1F:64:27:20:53:FA,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000023253, MAC: 8C:1F:64:27:20:0E:6B, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:53:FA, Device: 8C:1F:64:27:20:0E:6B
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:45:10] New QR Code Received
+QR Data: WAIA1103,1000008296,8C:1F:64:27:20:96:56,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000008296, MAC: 8C:1F:64:27:20:96:56, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:45:48] New QR Code Received
+QR Data: WAIA1103,1000013269,8C:1F:64:27:20:1A:D2,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000013269, MAC: 8C:1F:64:27:20:1A:D2, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:46:18] New QR Code Received
+QR Data: WAIA1103,1000009154,8C:1F:64:27:20:84:C9,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021314, MAC: 8C:1F:64:27:20:84:C9, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000009154, Device: 1000021314
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:46:53] New QR Code Received
+QR Data: WAIA1103,1000013423,8C:1F:64:27:20:B5:9F,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002852, MAC: 8C:1F:64:27:20:B5:9F, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000013423, Device: 1000002852
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:47:11] New QR Code Received
+QR Data: WAIA1103,1000018367,8C:1F:64:27:20:68:14,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018367, MAC: 8C:1F:64:27:20:68:14, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:47:44] New QR Code Received
+QR Data: WAIA1103,1000008827,8C:1F:64:27:20:DE:9D,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000008827, MAC: 8C:1F:64:27:20:DE:9D, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:48:03] New QR Code Received
+QR Data: WAIA1103,1000016364,8C:1F:64:27:20:3B:A8,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000016364, MAC: 8C:1F:64:27:20:3B:A8, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:48:40] New QR Code Received
+QR Data: WAIA1103,1000021429,8C:1F:64:27:20:DF:47,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[ERROR] Failed to read memory via J-Link
+=== VERIFICATION FAILED (DEVICE READ ERROR) ===
+============================================================
+
+============================================================
+[2025-11-22 13:49:25] New QR Code Received
+QR Data: WAIA1103,1000023978,8C:1F:64:27:20:90:28,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000023978, MAC: 8C:1F:64:27:20:90:28, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:49:50] New QR Code Received
+QR Data: WAIA1103,1000015810,8C:1F:64:27:20:63:6F,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000015810, MAC: 8C:1F:64:27:20:C6:67, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:63:6F, Device: 8C:1F:64:27:20:C6:67
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:50:12] New QR Code Received
+QR Data: WAIA1103,1000013291,8C:1F:64:27:20:53:1C,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000013291, MAC: 8C:1F:64:27:20:53:1C, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:50:57] New QR Code Received
+QR Data: WAIA1103,1000005772,8C:1F:64:27:20:C5:14,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000005772, MAC: 8C:1F:64:27:20:C5:14, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:51:31] New QR Code Received
+QR Data: WAIA1103,1000016176,8C:1F:64:27:20:10:04,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000016176, MAC: 8C:1F:64:27:20:10:04, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:52:15] New QR Code Received
+QR Data: WAIA1103,1000018644,8C:1F:64:27:20:F0:28,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000018644, MAC: 8C:1F:64:27:20:F0:28, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:52:51] New QR Code Received
+QR Data: WAIA1103,1000002010,8C:1F:64:27:20:52:BE,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002010, MAC: 8C:1F:64:27:20:52:BE, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:53:17] New QR Code Received
+QR Data: WAIA1103,1000023960,8C:1F:64:27:20:17:8F,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000023960, MAC: 8C:1F:64:27:20:17:8F, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:53:42] New QR Code Received
+QR Data: WAIA1103,1000007218,8C:1F:64:27:20:45:89,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000007218, MAC: 8C:1F:64:27:20:45:89, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:54:21] New QR Code Received
+QR Data: WAIA1103,1000002700,8C:1F:64:27:20:7C:D6,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000002700, MAC: 8C:1F:64:27:20:7C:D6, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:55:02] New QR Code Received
+QR Data: WAIA1103,1000001666,8C:1F:64:27:20:AF:E3,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000001666, MAC: 8C:1F:64:27:20:3A:07, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:AF:E3, Device: 8C:1F:64:27:20:3A:07
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:55:21] New QR Code Received
+QR Data: WAIA1103,1000022953,8C:1F:64:27:20:C3:6B,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000022953, MAC: 8C:1F:64:27:20:C3:6B, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:55:47] New QR Code Received
+QR Data: WAIA1103,1000019726,8C:1F:64:27:20:B6:3F,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000019726, MAC: 8C:1F:64:27:20:5C:C7, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:B6:3F, Device: 8C:1F:64:27:20:5C:C7
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:56:17] New QR Code Received
+QR Data: WAIA1103,1000008387,8C:1F:64:27:20:E3:49,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000008387, MAC: 8C:1F:64:27:20:E3:49, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: UGVCL-ISKRA1, Device: PRODUCTION-NETWORK
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:56:54] New QR Code Received
+QR Data: WAIA1103,1000024922,8C:1F:64:27:20:90:2E,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000024922, MAC: 8C:1F:64:27:20:90:2E, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:57:17] New QR Code Received
+QR Data: WAIA1103,1000013999,8C:1F:64:27:20:75:F0,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000013999, MAC: 8C:1F:64:27:20:75:F0, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:57:42] New QR Code Received
+QR Data: WAIA1103,1000003960,8C:1F:64:27:20:9C:C4,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000003960, MAC: 8C:1F:64:27:20:9C:C4, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[ERROR] Network Name MISMATCH! QR: PRODUCTION-NETWORK, Device: UGVCL-ISKRA1
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:58:21] New QR Code Received
+QR Data: WAIA1103,1000012942,8C:1F:64:27:20:28:37,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000009689, MAC: 8C:1F:64:27:20:28:37, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] Serial MISMATCH! QR: 1000012942, Device: 1000009689
+=== VERIFICATION FAILED ===
+============================================================
+
+============================================================
+[2025-11-22 13:58:51] New QR Code Received
+QR Data: WAIA1103,1000007939,8C:1F:64:27:20:41:C2,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000007939, MAC: 8C:1F:64:27:20:41:C2, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:59:11] New QR Code Received
+QR Data: WAIA1103,1000008583,8C:1F:64:27:20:E8:F3,KYB-121125,UGVCL-ISKRA1
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000008583, MAC: 8C:1F:64:27:20:E8:F3, Network: UGVCL-ISKRA1
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 13:59:49] New QR Code Received
+QR Data: WAIA1103,1000021907,8C:1F:64:27:20:15:1D,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000021907, MAC: 8C:1F:64:27:20:15:1D, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[SUCCESS] Serial, MAC, and Network all match!
+=== DEVICE VERIFIED SUCCESSFULLY ===
+============================================================
+
+============================================================
+[2025-11-22 14:00:07] New QR Code Received
+QR Data: WAIA1103,1000013393,8C:1F:64:27:20:A0:88,KYB-121125,PRODUCTION-NETWORK
+============================================================
+[Step 0] Resetting device via J-Link...
+DONE
+[Step 2] Reading userdata from device via J-Link...
+[Device] Read - Serial: 1000013393, MAC: 8C:1F:64:27:20:D5:05, Network: PRODUCTION-NETWORK
+
+=== Comparing Data ===
+[ERROR] MAC MISMATCH! QR: 8C:1F:64:27:20:A0:88, Device: 8C:1F:64:27:20:D5:05
+=== VERIFICATION FAILED ===
+============================================================
