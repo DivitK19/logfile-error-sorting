@@ -10,3 +10,6 @@ There were 4 main kinds of errors:
 The code would go through each block of the log file, looking for these types of errors, and store it, and in the end output in a .txt file
 
 The output has a GUI, which was made using wxPython. In the GUI, the user can choose which log files he wants to check. The output is easy to handle for the user, thanks to a simple and user-friendly GUI.
+
+
+* Note that the example log files are synthesised and not actual company documents/files. The log files follow the same template as the company log files, but with manipulated data to show more errors, because the original files barely had any.
