@@ -13,3 +13,5 @@ The output has a GUI, which was made using wxPython. In the GUI, the user can ch
 
 
 * Note that the example log files are synthesised and not actual company documents/files. The log files follow the same template as the company log files, but with manipulated data to show more errors, because the original files barely had any.
+
+* wxPython is needed to run the script, so that the actual GUI is given as output. Install using *pip install wxpython*
